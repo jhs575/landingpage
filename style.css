@@ -1,0 +1,112 @@
+
+*body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.orange-BG {
+    background-color: #FD6F00;
+}
+.orange-FW {
+    color: #FD6F00;
+}
+.bg-gray{
+    background-color: #F8F8F8;
+}
+.fw-1{
+    font-size: 21px;
+    font-weight: 500;
+}
+.fw-2{
+    font-size: 24px;
+    font-weight: 600;
+}
+
+.fw-3{
+    font-size: 32px;
+    font-weight: 700;
+}
+.fw-3-1{
+    font-size: 24px;
+    font-weight: bolder;
+}
+.fw-5{
+    font-size: 65px;
+    font-weight: 600;
+}
+.fw-10{
+    font-size: 100px;
+    font-weight: 700;
+}
+.du{
+    position: relative;
+}
+.dd{
+    position: absolute;
+    top: 90px;
+}
+.social-link-size{
+    height: 33px;
+    width: 33px;
+    margin: 10px;
+}
+
+.bg-ass{
+    margin: 0px;
+    width: 100%;
+    background-color: #edecec;
+    border-radius: 6px;
+}
+
+.volume{    
+    border-radius: 6px;
+    height: 10px;
+    background-color: #FD6F00;
+    position: relative;
+}
+.v1{
+    width: 80%;
+}
+.v2{
+    width: 90%;
+}
+.v3{
+    width: 60%;
+}
+
+
+.circle{
+    position: absolute;
+    top: -8px;
+    left: 99%;
+    height: 26px;
+    width: 26px;
+    border-radius: 13px;
+    background-color: #FD6F00;
+    color: #EDECEC;
+}
+.small-circle{
+    position: absolute;
+    top: 3px;
+    left: 3px;
+    height: 20px;
+    width: 20px;
+    border-radius: 10px;
+    background-color: #EDECEC;
+}
+
+.btn-outline-orange{
+    color: #000000;
+    background-color: #F8F8F8;
+    border-color: #000000;
+}
+.btn-outline-orange:hover{
+    color: #ffffff;
+    background-color: #FD6F00;
+}
+.on{
+    background-color: #FD6F00;
+    border-color: #00000000;
+}
+
+
+
